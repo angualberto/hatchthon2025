@@ -1,0 +1,56 @@
+
+> dashboard-hackathon@0.1.0 dev
+> next dev
+
+ ⚠ Port 3000 is in use by an unknown process, using available port 3001 instead.
+[baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+   ▲ Next.js 16.0.5 (Turbopack)
+   - Local:         http://localhost:3001
+  ○ Compiling / ...
+The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+ GET / 200 in 13.0s (compile: 12.2s, render: 785ms)
+ GET /biofouling 200 in 2.0s (compile: 1931ms, render: 77ms)
+ GET /biofouling 200 in 59ms (compile: 8ms, render: 51ms)
+ GET /monitoring 200 in 1258ms (compile: 1205ms, render: 53ms)
+ GET /api/routes?limit=1500 200 in 7.5s (compile: 629ms, render: 6.8s)
+ GET /api/routes?limit=2000 200 in 7.7s (compile: 859ms, render: 6.9s)
+ GET /api/monitoring/climate-stops 200 in 520ms (compile: 220ms, render: 300ms)
+ GET /api/routes?limit=1500 200 in 6.7s (compile: 10ms, render: 6.7s)
+ GET /api/routes?limit=2000 200 in 6.7s (compile: 23ms, render: 6.7s)
+ GET /api/monitoring/climate-stops 200 in 119ms (compile: 7ms, render: 112ms)
+ ✓ Compiled in 216ms
+ GET /monitoring 200 in 687ms (compile: 36ms, render: 650ms)
+ GET /api/routes?limit=2000 200 in 8.5s (compile: 20ms, render: 8.5s)
+ GET /api/routes?limit=1500 200 in 8.4s (compile: 7ms, render: 8.3s)
+ GET /api/monitoring/climate-stops 200 in 284ms (compile: 5ms, render: 280ms)
+ GET /api/routes?limit=1500 200 in 3.8s (compile: 4ms, render: 3.7s)
+ GET /api/monitoring/climate-stops 200 in 98ms (compile: 7ms, render: 91ms)
+ GET /monitoring 200 in 364ms (compile: 32ms, render: 332ms)
+ GET /api/routes?limit=2000 200 in 6.3s (compile: 15ms, render: 6.2s)
+ GET /api/routes?limit=1500 200 in 5.9s (compile: 5ms, render: 5.9s)
+ GET /api/monitoring/climate-stops 200 in 292ms (compile: 6ms, render: 286ms)
+ GET /api/routes?limit=1500 200 in 3.5s (compile: 6ms, render: 3.5s)
+ GET /api/monitoring/climate-stops 200 in 79ms (compile: 6ms, render: 73ms)
+ GET /monitoring 200 in 332ms (compile: 15ms, render: 316ms)
+ GET /api/routes?limit=2000 200 in 7.1s (compile: 16ms, render: 7.1s)
+ GET /api/routes?limit=1500 200 in 6.5s (compile: 5ms, render: 6.5s)
+ GET /api/monitoring/climate-stops 200 in 556ms (compile: 185ms, render: 371ms)
+ GET /api/routes?limit=1500 200 in 4.8s (compile: 6ms, render: 4.8s)
+ GET /api/monitoring/climate-stops 200 in 97ms (compile: 5ms, render: 92ms)
+[baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+[?25h

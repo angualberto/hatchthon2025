@@ -1,0 +1,30 @@
+Classe,Embarcação,Sigla,Data,Local de realização,Regiões do casco limpas,Condição geral da embarcação,Tipo de incrustação da embarcação,Condição do fundo chato,Tipo de incrustação do fundo chato,Condição do costado,Tipo de incrustação do costado,Condição do hélice,Tipo de incrustação do hélice
+Aframax,Carla Silva,CSI,2025-08-29 00:00:00,Angra dos Reis/RJ,,1,"Craca, alga e limo",1,Incrustações duras e moles,"100%, 20%",Moles (100%) e Duras (20%),1,Moles e Duras
+Suezmax,Raul Martins,RMA,2023-03-30 00:00:00,São Sebastião/SP,,0.1,Duras no fundo,0.1,Duras,Não consta no relatório,Não consta no relatório,0.4,Moles e Duras
+MR2,Eduardo Costa,EDC,2025-01-11 00:00:00,São Sebastião/SP,,0.1,Moles e duras,0.1,Moles (5%) e Duras (5%),0.05,Moles,0.8,Moles
+Suezmax,Victor Oliveira,VOL,2021-03-03 00:00:00,Salvador/BA,,0.3,Cracas e limo,0.3,Cracas e limo,0.3,Cracas e limo,0.9,Cracas e limo
+Aframax,Carla Silva,CSI,2021-08-21 00:00:00,Angra dos Reis/RJ,,1,Alga e limo,1,Alga e limo,1,Alga e limo,0.85,"Alga, limo e calcárea"
+Suezmax,Giselle Carvalho,GIC,2023-01-10 00:00:00,Angra dos Reis/RJ,,0.1,"Craca, alga e limo",0.1,"Craca, alga e limo",0.1,"Craca, alga e limo",1,Alga e limo
+Aframax,Daniel Pereira,DAP,2021-01-18 00:00:00,Salvador/BA,,0.2,"Craca, alga e limo",0.2,"Craca, alga e limo",0.2,"Craca, alga e limo",0.7,"Craca, alga e limo"
+Suezmax,Felipe Ribeiro,FRB,2021-09-04 00:00:00,Salvador/BA,,1,"Craca, alga e limo",1,"Craca, alga e limo",1,"Craca, alga e limo",1,"Craca, alga, limo e calcárea"
+Suezmax,Henrique Alves,HAL,2022-06-21 00:00:00,Baía de todos os santos/BA,,0.9,Cracas e limo,1,Cracas e limo,0.8,Cracas e limo,1,Cracas e limo
+Suezmax,Felipe Ribeiro,FRB,2022-12-31 00:00:00,Angra dos Reis/RJ,,0.8,"Craca, alga e limo",0.8,"Craca, alga e limo",0.8,"Craca, alga e limo",0.8,"Craca, alga e limo"
+Aframax,Renato Gomes,REG,2025-08-17 00:00:00,Rotterdam/NL,Fundo chato,3,NORMAN,3,NORMAN,3,NORMAN,,
+Suezmax,Raul Martins,RMA,2024-12-08 00:00:00,Gibraltar,"Caixas de mar, costado, leme e propulsor",0.5,Cracas (50%) e limo (10%),0.35,Cracas,"50%, 10%",Cracas (50%) e limo (10%),"10%, 100%, 80%","Cracas (10%), Calcárea (100%) e Crescimento marinho (80%)"
+MR2,Romario Silva,ROS,2025-11-10 00:00:00,São Sebastião/SP,,0.7,Moles e duras,"60%, 10%",Moles (60%) e Duras (10%),"70%, 20%",Moles (70%) e Duras (20%),0.2,Moles
+Suezmax,Marcos Cavalcanti,MCA,2024-01-28 00:00:00,Angra dos Reis/RJ,,0.05,Moles,0,,0.05,Moles ,0.8,Moles 
+Suezmax,Paulo Moura,PMO,2023-10-28 00:00:00,Angra dos Reis/RJ,,0.1,Moles,0.1,Moles,0.1,Moles,0.1,Moles e Duras
+Aframax,Carla Silva,CSI,2025-10-10 00:00:00,Angra dos Reis/RJ,,2,NORMAN,3,NORMAN,2,NORMAN,Não avaliado,Não avaliado
+Gaseiros 7k,Bruno Lima,BRL,2024-05-08 00:00:00,Ipojuca/PE,,0.6,Cracas e limo,0.6,Cracas e limo,0.6,Cracas e limo,0.6,Cracas e calcárea
+Gaseiros 7k,Fábio Santos,FSA,2024-08-10 00:00:00,Fortaleza/CE,,0,,0,,0,,0,
+Gaseiros 7k,Maria Valentina,MVA,2024-11-04 00:00:00,Fortaleza/CE,,0,,0,,0,,0,
+Suezmax,Paulo Moura,PMO,2025-05-18 00:00:00,Singapura,Limpeza geral no casco e propulsor,70-80%,"Craca, alga e limo",50-60%,Cracas e limo,70-80%,"Craca, alga e limo",70-80%,"Cracas, limo e calcárea"
+Suezmax,Rafael Santos,RAS,2025-06-10 00:00:00,Singapura,Limpeza geral no casco e propulsor,70-80%,"Craca, alga e limo",60-70%,Cracas e limo,70-80%,"Craca, alga e limo",70-80%,"Cracas, limo e calcárea"
+Suezmax,Rafael Santos,RAS,2025-08-23 00:00:00,Angra dos Reis/RJ,Fundo chato e costado de boreste,0.8,Moles,0,,"80%, 15%",Algas (80%) e cracas (15%),Não avaliado,Não avaliado
+Aframax,Renato Gomes,REG,2025-09-22 00:00:00,Angra dos Reis/RJ,Fundo chato,0.2,Moles,0,,"20%, 5%",Algas (20%) e cracas (5%),Não avaliado,Não avaliado
+Aframax,Renato Gomes,REG,18/06/2025-23/06/2025,Niterói- RJ,,1,Duras e Moles,1,Duras e Moles,1,Duras e Moles,"30%, 70%",Moles (30%) e Duras (70%)
+Suezmax,Henrique Alves,HAL,2025-09-25 00:00:00,Singapura,"Caixas de mar, leme e propulsor",Não avaliado,Não avaliado,Não avaliado,Não avaliado,Não avaliado,Não avaliado,0.9,"Craca, alga e limo"
+Aframax,Rodrigo Pinheiro,RPI,2023-08-16 00:00:00,Fujaira/UAE,Limpeza geral no casco e propulsor,0.8,"Craca, alga e limo",0.6,Craca e limo,0.8,"Craca, alga e limo",0.9,"Cracas, alga, limo e calcárea"
+Suezmax,Henrique Alves,HAL,2021-07-21 00:00:00,Singapura,Limpeza geral no casco e propulsor,0.8,Craca e alga,0.8,Craca e alga,0.9,Craca e alga,0.8,Craca e alga
+Suezmax,Rafael Santos,RAS,2024-03-25 00:00:00,Singapura,Fundo chato e costado,0.45,Limo leve e algas. Cracas concentradas a ré e dispersas no restante do costado,0.2,Cracas dispersas,0.45,Limo leve e algas. Cracas concentradas a ré e dispersas no restante do costado,Não avaliado,Não avaliado
+Suezmax,Henrique Alves,HAL,2025-09-26 00:00:00,Singapura,Costados,Não avaliado,Não avaliado,Não avaliado,Não avaliado,0.55,Cracas e limo,Não avaliado,Não avaliado

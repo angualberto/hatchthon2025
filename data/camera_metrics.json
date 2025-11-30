@@ -1,0 +1,11 @@
+{
+  "timestamp": "2025-11-30T22:03:30.722550Z",
+  "frame_id": 69,
+  "metrics": {
+    "method": "barnacle_detector",
+    "cracas": 11,
+    "fouling_percent": 0.6266276041666667,
+    "cracas_per_cm2": 2.2857142857142856,
+    "fouling_cm2": 4.8125
+  }
+}
